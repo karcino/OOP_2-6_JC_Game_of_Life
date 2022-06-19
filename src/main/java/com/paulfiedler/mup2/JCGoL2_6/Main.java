@@ -20,7 +20,5 @@ public class Main {
 
         GameOfLife game5 = new GameOfLife(80, "offen", 10, 50);
         game5.spielen();
-
     }
-
 }
