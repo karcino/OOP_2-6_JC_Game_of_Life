@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.paulfiedler.mup2.JCGoL2_6"}];updateSearchResults();

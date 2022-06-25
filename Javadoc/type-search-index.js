@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.paulfiedler.mup2.JCGoL2_6","l":"Feld"},{"p":"com.paulfiedler.mup2.JCGoL2_6","l":"GameOfLife"},{"p":"com.paulfiedler.mup2.JCGoL2_6","l":"Main"},{"p":"com.paulfiedler.mup2.JCGoL2_6","l":"Zelle"}];updateSearchResults();
